@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "09335a2f57390fb16cbdbb1c1879bc98"
+build_time: [515553833, 338891000]
+inputs:
+  "/Users/WenYu/Desktop/testCoreMotion/testCoreMotion/ViewController.swift": [515553833, 0]
+  "/Users/WenYu/Desktop/testCoreMotion/testCoreMotion/AppDelegate.swift": [515553823, 0]
